@@ -6,5 +6,7 @@ h1 {
 }
 
 .list > ol > li{
-
+color: aquamarine;
+font-weight: 300;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
