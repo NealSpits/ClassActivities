@@ -1,0 +1,12 @@
+h1 {
+  color: purple;
+  font-size: xx-large;
+  padding-top: 7px;
+  border-bottom: goldenrod;
+}
+
+.list > ol > li{
+color: aquamarine;
+font-weight: 300;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
